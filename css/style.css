@@ -1,0 +1,61 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 50px;
+}
+.buy-now{
+    border: none;
+    padding: 10px 25px;
+    background: #252525;
+    color: #fff;
+    border-radius: 10px;
+}
+a, a:hover{
+    text-decoration: none;
+    padding-top: 15px;
+}
+/* ======== common css end =====*/
+
+
+/*====== navebar area start =======*/
+.navbar-brand img{
+    width: 100px;
+}
+/*====== navebar area end =======*/
+
+/*====== banner area start =======*/
+.carousel-inner{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.carousel-indicators li {
+	height: 8px;
+	background-color: orange;
+}
+/*====== banner area end =======*/
+
+/*====== smartphone & laptop area start =======*/
+.card-heading a{
+    color: darkred;
+}
+.card{
+    border: none;
+    padding: 20px 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card h5{
+    font-weight: 600;
+}
+.card-footer{
+    border: none;
+    background: none;
+}
+/*====== smartphone & laptop area end =======*/
+
+/*====== footer area start =======*/
+footer{
+    text-align: center;
+    margin-bottom: 10px;
+}
+/*====== footer area end =======*/
