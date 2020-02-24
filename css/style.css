@@ -12,6 +12,13 @@ body {
     background: #252525;
     color: #fff;
     border-radius: 10px;
+    transition: all linear 0.3s;
+}
+.buy-now:hover{
+    background: orange;
+    transform: scale(1.2);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
 }
 
 a,
